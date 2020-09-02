@@ -1,4 +1,3 @@
-# altv-os-map-BlockedMetroTunnelSystem
 ![](https://i.imgur.com/5KRMpaA.jpeg)
 
 # Open Source Map - Blocked Metro Tunnel System - alt:V
