@@ -8,13 +8,13 @@ Do you want to prevent players from entering the Metro Tunnel System, then this 
 
 After simply add the name of this resource to your `server.cfg` resource section.
 
-`altv-os-map-FortZancudoShootingRange`
+`altv-os-map-BlockedMetroTunnelSystem`
 
 Then simply clone this repository into your main server resources folder.
 
 ```
 cd resources
-git clone https://github.com/ThomasMarangoni/altv-os-map-FortZancudoShootingRange
+git clone https://github.com/ThomasMarangoni/altv-os-map-BlockedMetroTunnelSystem
 ```
 
 ## Images
